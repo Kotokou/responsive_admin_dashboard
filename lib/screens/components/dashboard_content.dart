@@ -8,7 +8,6 @@ import 'package:responsive_admin_dashboard/screens/components/top_referals.dart'
 import 'package:responsive_admin_dashboard/screens/components/users.dart';
 import 'package:responsive_admin_dashboard/screens/components/users_by_device.dart';
 import 'package:responsive_admin_dashboard/screens/components/viewers.dart';
-
 import 'discussions.dart';
 
 class DashboardContent extends StatelessWidget {

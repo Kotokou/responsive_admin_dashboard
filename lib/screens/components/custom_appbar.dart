@@ -16,10 +16,15 @@ class CustomAppbar extends StatelessWidget {
         if (!Responsive.isDesktop(context))
           IconButton(
             onPressed: context.read<Controller>().controlMenu,
-            icon: Icon(Icons.menu,color: textColor.withOpacity(0.5),),
+            icon: Icon(
+              Icons.menu,
+              color: textColor.withOpacity(0.5),
+            ),
           ),
-        Expanded(child: SearchField()),
-        ProfileInfo()
+        Expanded(
+          child: SearchField(),
+        ),
+        ProfileInfo(),
       ],
     );
   }

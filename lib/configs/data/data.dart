@@ -33,32 +33,32 @@ List analyticData = [
 List discussionData = [
   DiscussionInfoModel(
     imageSrc: "assets/images/photo1.jpg",
-    name: "Lutfhi Chan",
+    name: "Elim Hougbe",
     date: "Jan 25,2021",
   ),
   DiscussionInfoModel(
     imageSrc: "assets/images/photo2.jpg",
-    name: "Devi Carlos",
+    name: "Just Caaris",
     date: "Jan 25,2021",
   ),
   DiscussionInfoModel(
     imageSrc: "assets/images/photo3.jpg",
-    name: "Danar Comel",
+    name: "Joker Azia",
     date: "Jan 25,2021",
   ),
   DiscussionInfoModel(
     imageSrc: "assets/images/photo4.jpg",
-    name: "Karin Lumina",
+    name: "Ach Kpago",
     date: "Jan 25,2021",
   ),
   DiscussionInfoModel(
     imageSrc: "assets/images/photo5.jpg",
-    name: "Fandid Deadan",
+    name: "Marie Money",
     date: "Jan 25,2021",
   ),
   DiscussionInfoModel(
     imageSrc: "assets/images/photo1.jpg",
-    name: "Lutfhi Chan",
+    name: "Geli Eph",
     date: "Jan 25,2021",
   ),
 ];

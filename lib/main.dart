@@ -18,11 +18,12 @@ class MyApp extends StatelessWidget {
       ),
       home: MultiProvider(
         providers: [
-          ChangeNotifierProvider(create: (context) => Controller(),),
+          ChangeNotifierProvider(
+            create: (context) => Controller(),
+          ),
         ],
         child: DashBoardScreen(),
       ),
     );
   }
 }
-

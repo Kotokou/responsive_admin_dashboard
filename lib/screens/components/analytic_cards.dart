@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:responsive_admin_dashboard/configs/constants/constants.dart';
 import 'package:responsive_admin_dashboard/configs/constants/responsive.dart';
 import 'package:responsive_admin_dashboard/configs/data/data.dart';
-
-
 import 'analytic_info_card.dart';
 
 class AnalyticCards extends StatelessWidget {
