@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:responsive_admin_dashboard/configs/constants/constants.dart';
-import 'package:responsive_admin_dashboard/screens/components/view_line_chart.dart';
 
 class Viewers extends StatelessWidget {
   const Viewers({Key? key}) : super(key: key);
@@ -25,9 +24,9 @@ class Viewers extends StatelessWidget {
               fontSize: 15,
             ),
           ),
-          Expanded(
-            child: ViewLineChart(),
-          )
+          // Expanded(
+          //   child: ViewLineChart(),
+          // )
         ],
       ),
     );
